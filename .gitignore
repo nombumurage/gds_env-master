@@ -1,0 +1,9 @@
+*.swp
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+.DS_Store
+check_py_stack.html
+check_r_stack.html
+us.tif
+db_test.feather
+.jupyter/

@@ -1,0 +1,71 @@
+name: gds
+channels:
+  - pyviz
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - cython
+  - python=3.7
+  - jupyterhub=1.0.0
+  - jupyterlab=1.2.1
+  - notebook=6.0.0
+  - scikit-learn
+  - cenpy
+  - dask-ml
+  - geopandas
+  - nbdime
+  - ipywidgets
+  - tzlocal
+  - osmnx
+  - smmap2
+  - contextily
+  - xlsxwriter
+  - rasterstats
+  - pandana
+  - bokeh
+  - feather-format
+  - pyarrow
+  - colorama
+  - mapclassify
+  - geopy
+  - datashader
+  - ipyparallel
+  - mkl-service
+  - pillow
+  - rasterio
+  - dill
+  - xlrd
+  - networkx
+  - urbanaccess
+  - scikit-image
+  - gitdb2
+  - gitpython
+  - polyline
+  - black
+  - seaborn
+  - ipyleaflet
+  - qgrid
+  - spatialpandas
+  - mplleaflet
+  - palettable
+  - pysal
+  - cython
+  - dask
+  - hdbscan
+  - ipympl
+  - statsmodels
+  - numpy
+  - cython
+  - matplotlib
+  - hvplot
+  - proj
+  - cartopy
+  - geoviews
+  - panel
+  - movingpandas
+gds_env_version: 1.1 
+
+  
+  
+
